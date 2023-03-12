@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1675513516 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\src\card.cpp
+	"Card.h"
+
+1675513516 c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\include\card.h
+	<string>
+	<iostream>
+
+1675516267 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\main.cpp
+	<iostream>
+	<Card.h>
+	<Location.h>
+	<Board.h>
+	<string>
+
+1675531372 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\src\board.cpp
+	"Board.h"
+
+1675531345 c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\include\board.h
+	"Location.h"
+	"Card.h"
+	<string>
+	<iostream>
+
+1675513516 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\src\location.cpp
+	"Location.h"
+
+1675513516 c:\users\waral\onedrive\masaüstü\codeblocksdosya\cardgame\include\location.h
+	"Card.h"
+	<string>
+	<iostream>
+
